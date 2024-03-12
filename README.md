@@ -1,6 +1,10 @@
 # PINN_Neural_Networks-PDE_Solvers
 Physics-Informed Neural Networks (PINN) for Solving Differential Equations
 
+Politecnico di Milano - Prof. Edie Miglio - Numerical Analysis for Machine Learning
+
+Final Grade: 30 Cum Laude / 30
+
 Replicating and Implementing the results of the famous paper: “DeepXDE: A Deep Learning Library for Solving Diﬀerential Equations” by Lu Lu, Xuhui Meng, Zhiping Mao and George Em Karniadakis.
 
 Everything is implemented (as much as possible) from scratch, using Numpy, Scipy and JAX. A second version with DeepXDE library is also provided.
