@@ -33,4 +33,4 @@ The final segment of the project focuses on Burgers' equation, a complex, nonlin
 
 
 
-In conclusion through this project, we showcase the power of PINNs in looking at a wide range of differential equations encountered in various scientific and engineering domains. By combining neural networks with physical principles, we pave the way for innovative solutions to complex problems, offering new insights and possibilities in the field of computational physics and engineering.
+In conclusion, through this project, we showcase the power of PINNs in looking at a wide range of differential equations encountered in various scientific and engineering domains. By combining neural networks with physical principles, we pave the way for innovative solutions to complex problems, offering new insights and possibilities in the field of computational physics and engineering.
