@@ -1,7 +1,15 @@
 # PINN_Neural_Networks-PDE_Solvers
 Physics-Informed Neural Networks (PINN) for Solving Differential Equations
 
-Overview:
+Replicating and Implementing the results of the famous paper: “DeepXDE: A Deep Learning Library for Solving Diﬀerential Equations” by Lu Lu, Xuhui Meng, Zhiping Mao and George Em Karniadakis.
+
+Key Features:
+
+1. Utilization of Physics-Informed Neural Networks (PINNs) for solving differential equations.
+2. Implementation of specific techniques such as hard constraints, feedforward neural networks, Residual Networks (ResNets), and Residual Attention Regularization (RAR) sampling.
+3. Addressing diverse types of differential equations including Volterra equation, Implicit Differential Equations (IDEs), Kirchhoff's equation for RLC circuits (inverse problem), and Burgers' equation for viscous fluids.
+4. Demonstrating the accuracy, efficiency, and robustness of PINNs in solving complex physical problems.
+
 This project explores the capabilities of Physics-Informed Neural Networks (PINN) in solving a variety of differential equations, particularly Partial Differential Equations (PDEs). The project is divided into three main parts, each focusing on a different type of differential equation and inverse problems, utilizing specific techniques to achieve accurate and efficient solutions.
 
 Part 1: Volterra Equation and Implicit Differential Equation (IDE)
