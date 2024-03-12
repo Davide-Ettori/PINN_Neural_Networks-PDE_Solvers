@@ -6,6 +6,7 @@ This project explores the capabilities of Physics-Informed Neural Networks (PINN
 
 Part 1: Volterra Equation and Implicit Differential Equation (IDE)
 In the initial phase of the project, we tackle the Volterra equation and an Integro-Differential Equation (IDE) using PINNs. Employing hard constraints and a feedforward neural network architecture, we demonstrate the effectiveness of PINNs in solving these types of equations with high precision.
+
 ![Screenshot 2024-03-12 alle 20 08 32](https://github.com/Davide-Ettori/PINN_Neural_Networks-PDE_Solvers/assets/52358285/e6b36eff-fea5-4a7a-b9ca-87bc4eb76656)
 
 
@@ -19,8 +20,9 @@ Moving forward, we delve into the realm of inverse problems by addressing Kirchh
 Part 3: Burgers' Equation for Viscous Fluids
 The final segment of the project focuses on Burgers' equation, a complex, nonlinear partial differential equation governing viscous fluid flow in a tube. Here, we employ the Residual Adaptive Refinement (RAR) sampling technique to capture the impulses within the central region of the fluid tube. By tackling this challenging problem, we demonstrate the versatility and adaptability of PINNs in handling complex fluid dynamics scenarios.
 
-![Screenshot 2024-03-12 alle 20 08 06](https://github.com/Davide-Ettori/PINN_Neural_Networks-PDE_Solvers/assets/52358285/ee2582f0-4820-4869-b383-513c8ce660e5)
-![Screenshot 2024-03-12 alle 20 08 32](https://github.com/Davide-Ettori/PINN_Neural_Networks-PDE_Solvers/assets/52358285/c121afdc-caa7-47d3-806b-5ce608deacbc)
+![Screenshot 2024-03-12 alle 20 08 06](https://github.com/Davide-Ettori/PINN_Neural_Networks-PDE_Solvers/assets/52358285/57ba3e9f-3445-446e-ac8d-dd8984492b00)
+![Screenshot 2024-03-12 alle 20 08 00](https://github.com/Davide-Ettori/PINN_Neural_Networks-PDE_Solvers/assets/52358285/f1c69287-4d1a-4e28-991f-5c72f153ddf9)
+
 
 
 Conclusion:
