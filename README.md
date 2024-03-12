@@ -1,7 +1,7 @@
 # PINN_Neural_Networks-PDE_Solvers
 Physics-Informed Neural Networks (PINN) for Solving Differential Equations
 
-Politecnico di Milano - Prof. Edie Miglio - Numerical Analysis for Machine Learning
+Supervised by Professor Edie Miglio, Politecnico di Milano - Numerical Analysis for Machine Learning
 
 Final Grade: 30 Cum Laude / 30
 
