@@ -5,7 +5,7 @@ Supervised by Professor Edie Miglio, Politecnico di Milano - Numerical Analysis 
 
 Final Grade: 30 Cum Laude / 30
 
-Replicating and Implementing the results of the famous paper: “DeepXDE: A Deep Learning Library for Solving Diﬀerential Equations” by Lu Lu, Xuhui Meng, Zhiping Mao and George Em Karniadakis.
+**Replicating and Implementing the results of the famous paper: “DeepXDE: A Deep Learning Library for Solving Diﬀerential Equations” by Lu Lu, Xuhui Meng, Zhiping Mao and George Em Karniadakis.**
 
 Everything is implemented (as much as possible) from scratch, using Numpy, Scipy and JAX. A second version with DeepXDE library is also provided.
 
