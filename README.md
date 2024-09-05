@@ -14,7 +14,6 @@ Key Features:
 1. Utilization of Physics-Informed Neural Networks (PINNs) for solving differential equations.
 2. Implementation of specific techniques such as hard constraints, BFGS method for optimzation and Residual Adaptive Refinement (RAR) sampling.
 3. Addressing diverse types of differential equations including Volterra equation (Integral Differential Equation), Kirchhoff's equation for RLC circuits (Inverse Problem), and Burgers' equation for viscous fluids.
-4. Demonstrating the accuracy, efficiency, and robustness of PINNs in solving complex physical problems.
 
 This project explores the capabilities of Physics-Informed Neural Networks (PINN) in solving a variety of differential equations, particularly Partial Differential Equations (PDEs). The project is divided into three main parts, each focusing on a different type of differential equation and inverse problems, utilizing specific techniques to achieve accurate and efficient solutions.
 
